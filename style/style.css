@@ -1,0 +1,116 @@
+.site-hero{
+  width: 700px;
+  height: 400px;
+  background-image: linear-gradient(rgb(6, 6, 255) 50% , rgb(250, 250, 6) 50% );
+  padding: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+}
+
+.site-hero2{
+  width: 700px;
+  height: 400px;
+  background: rgb(249,234,3);
+  background: linear-gradient(180deg, rgba(249,234,3,1) 40%, rgba(4,0,254,1) 44%, rgba(58,7,199,1) 73%, rgba(255,34,0,1) 77%, rgba(255,34,0,1) 100%);
+  padding: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+}
+
+.site-hero3{
+  width: 700px;
+  height: 400px;
+  background: rgb(249,3,33);
+  background: radial-gradient(circle, rgba(249,3,33,1) 0%, rgba(246,4,4,1) 27%, rgba(255,255,255,1) 28%, rgba(254,218,218,1) 28%, rgba(255,255,255,1) 28%);
+  padding: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  border: 1px solid red;
+}
+
+.site-hero4{
+  width: 700px;
+  height: 400px;
+  background: rgb(249,3,3);
+  background: linear-gradient(180deg, rgba(249,3,3,1) 40%, rgba(255,255,255,1) 44%, rgba(255,255,255,1) 73%, rgba(0,0,0,1) 77%, rgba(0,0,0,1) 100%);
+  padding: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  border: 1px solid red;
+}
+
+.site-hero5{
+  width: 700px;
+  height: 400px;
+  background: rgb(0,8,158);
+  background: linear-gradient(90deg, rgba(0,8,158,1) 37%, rgba(255,255,255,1) 37%, rgba(255,255,255,1) 70%, rgba(252,5,5,1) 70%, rgba(250,1,1,1) 100%);
+  padding: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  border: 1px solid red;
+}
+
+.site-hero6{
+  width: 700px;
+  height: 400px;
+  background: rgb(0,0,0);
+  background: linear-gradient(180deg, rgba(0,0,0,1) 33%, rgba(255,0,0,1) 33%, rgba(255,0,0,1) 71%, rgba(254,255,0,1) 71%, rgba(255,235,0,1) 100%);
+  padding: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  border: 1px solid red;
+}
+
+.site-hero7{
+  width: 700px;
+  height: 400px;
+  background: rgb(255,255,255);
+  background: linear-gradient(180deg, rgba(255,255,255,1) 50%, rgba(255,0,0,1) 51%));
+  padding: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  border: 1px solid red;
+}
+
+.site-hero8{
+  width: 700px;
+  height: 400px;
+  background: rgb(255,255,255);
+  background: linear-gradient(180deg, rgba(255,255,255,1) 37%, rgba(0,0,247,1) 38%, rgba(0,1,251,1) 70%, rgba(255,0,0,1) 71%, rgba(255,0,0,1) 100%);
+  padding: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  border: 1px solid red;
+}
+
+.site-hero9{
+  width: 700px;
+  height: 400px;
+  background: rgb(29,166,10);
+  background: linear-gradient(90deg, rgba(29,166,10,1) 35%, rgba(255,255,255,1) 35%, rgba(238,238,238,1) 70%, rgba(29,166,10,1) 70%, rgba(29,166,10,1) 100%);;
+  padding: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  border: 1px solid red;
+}
+
+.site-hero10{
+  width: 700px;
+  height: 400px;
+  background: rgb(0,202,255);
+  background: linear-gradient(180deg, rgba(0,202,255,1) 35%, rgba(255,255,255,1) 35%, rgba(238,238,238,1) 70%, rgba(0,202,255,1) 70%, rgba(0,202,255,1) 100%);
+  padding: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  border: 1px solid red;
+}
